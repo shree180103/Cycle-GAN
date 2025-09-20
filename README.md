@@ -6,9 +6,13 @@ The key idea is to translate images between two domains (say domain X and domain
 
 # Model architecture
 Generator:
+
+
 <img width="1599" height="658" alt="image" src="https://github.com/user-attachments/assets/894ef9f4-d13d-473d-903a-2312f71ff355" />
 
 Dicriminator:
+
+
 <img width="1361" height="735" alt="image" src="https://github.com/user-attachments/assets/28cd5b89-abbe-4914-9166-76681c256ec0" />
 
 # Loss Functions
