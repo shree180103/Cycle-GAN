@@ -14,12 +14,18 @@ Dicriminator:
 # Loss Functions
 
 Gan loss:
+
+
 <img width="458" height="64" alt="image" src="https://github.com/user-attachments/assets/1a26be3a-3ddb-4883-8ac2-5b639763cadc" />
 
 cycle consistency loss:
+
+
 <img width="422" height="85" alt="image" src="https://github.com/user-attachments/assets/5527b8bd-93a7-404e-bf6d-000946abc661" />
 
 Full objectiive loss:
+
+
 <img width="372" height="113" alt="image" src="https://github.com/user-attachments/assets/44212ccf-ccbf-45a1-b910-da7c48feaab2" />
 
 
