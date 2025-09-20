@@ -36,9 +36,7 @@ Full objective loss:
 
 <img width="458" height="389" alt="image" src="https://github.com/user-attachments/assets/1ec75645-6372-47cf-8659-9d1e97f78840" />
 
-<img width="458" height="389" alt="image" src="https://github.com/user-attachments/assets/2910bf21-fc3a-455e-a825-b5629bd4e2fd" />
-
-<img width="458" height="389" alt="image" src="https://github.com/user-attachments/assets/185edbd7-9338-459a-bff8-97f717635e64" />
+<img width="458" height="389" alt="image" src="https://github.com/user-attachments/assets/2910bf21-fc3a-455e-a825-b5629bd4e2fd" /> <img width="458" height="389" alt="image" src="https://github.com/user-attachments/assets/185edbd7-9338-459a-bff8-97f717635e64" />
 
 <img width="458" height="389" alt="image" src="https://github.com/user-attachments/assets/008766b8-be49-40e5-8e00-1741bc83be15" />
 
