@@ -27,9 +27,20 @@ cycle consistency loss:
 
 <img width="422" height="85" alt="image" src="https://github.com/user-attachments/assets/5527b8bd-93a7-404e-bf6d-000946abc661" />
 
-Full objectiive loss:
+Full objective loss:
 
 
 <img width="372" height="113" alt="image" src="https://github.com/user-attachments/assets/44212ccf-ccbf-45a1-b910-da7c48feaab2" />
 
+#Results
+
+<img width="458" height="389" alt="image" src="https://github.com/user-attachments/assets/1ec75645-6372-47cf-8659-9d1e97f78840" />
+
+<img width="458" height="389" alt="image" src="https://github.com/user-attachments/assets/2910bf21-fc3a-455e-a825-b5629bd4e2fd" />
+
+<img width="458" height="389" alt="image" src="https://github.com/user-attachments/assets/185edbd7-9338-459a-bff8-97f717635e64" />
+
+<img width="458" height="389" alt="image" src="https://github.com/user-attachments/assets/008766b8-be49-40e5-8e00-1741bc83be15" />
+
+<img width="458" height="389" alt="image" src="https://github.com/user-attachments/assets/84c058cb-af16-4f0a-9a96-4b44316e4008" />
 
